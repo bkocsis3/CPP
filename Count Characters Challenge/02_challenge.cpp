@@ -2,7 +2,7 @@
 // updated 2020-07-12
 #include <cstdio>
 
-const char string[] = "Five ";
+const char string[] = "Seven  ";
 
 int main()
 {
